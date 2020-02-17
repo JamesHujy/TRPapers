@@ -10,4 +10,4 @@
 * 6138 data points
 
 ### Expriment 
-![image](https://github.com/JamesHujy/Updating-Work-on-Text-Reasoning/images/Result_of_ReClor.png)
+![image](https://github.com/JamesHujy/Updating-Work-on-Text-Reasoning/blob/master/images/Result_of_ReClor.png)
