@@ -7,7 +7,7 @@
 2. **Dynamically Fused Graph Network for Multi-hop Reasoning.** *Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1617.pdf)
 1. **A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning.** *Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li.* EMNLP 2019. [paper](https://www.aclweb.org/anthology/D19-1170.pdf) [code](https://github.com/huminghao16/MTMSN)
 1. **Probabilistic Logic Neural Networks for Reasoning.** *Meng Qu, Jian Tang.* NeurIPS 2019. [paper](https://arxiv.org/pdf/1906.08495.pdf)
-1. **Neural Symbolic Reader: Scalable Intergration of Distributed and Symbolic Representations for Reading Comprehension.** *Xinyuan Chen, Chen Liang, Adams Wei Yu, Denny Zhou, Dawn Song, Quoc V. Le* ICLR 2020. [paper](https://openreview.net/attachment?id=ryxjnREFwH&name=original_pdf) [note](https://github.com/yuweihao/reclor) [website](http://whyu.me/reclor/) [note](https://github.com/JamesHujy/Updating-Work-on-Text-Reasoning/blob/master/note/NeRd_Note.md)
+1. **Neural Symbolic Reader: Scalable Intergration of Distributed and Symbolic Representations for Reading Comprehension.** *Xinyuan Chen, Chen Liang, Adams Wei Yu, Denny Zhou, Dawn Song, Quoc V. Le* ICLR 2020. [paper](https://openreview.net/attachment?id=ryxjnREFwH&name=original_pdf) [code](https://github.com/yuweihao/reclor) [website](http://whyu.me/reclor/) [note](https://github.com/JamesHujy/Updating-Work-on-Text-Reasoning/blob/master/note/NeRd_Note.md)
 1. **Multi-range Reasoning for Machine Comprehension.** *Yi Tay, Luu Anh Tuan, and Siu Cheung Hui* [paper](https://arxiv.org/pdf/1803.09074.pdf) 
 
 ### Dataset
