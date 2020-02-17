@@ -16,6 +16,8 @@
 1. **ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning.** 
 *Weihao Yu, Zihang Jiang, Yanfei Dong, Jiashi Feng.* ICLR 2020. [paper](https://arxiv.org/pdf/2002.04326.pdf) [code](https://github.com/yuweihao/reclor) [website](http://whyu.me/reclor/) [note](https://github.com/JamesHujy/Updating-Work-on-Text-Reasoning/blob/master/note/ReClor_Note.md)
 1. **RC-QED: Evaluating Natural Language Derivations in Multi-Hop Reading Comprehension** *Naoya Inoue, Pontus Stenetorp, Kentaro Inui* [paper](https://arxiv.org/pdf/1910.04601.pdf)
+1. **Counterfactual Story Reasoning and Generation** *Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clark, Yejin Choi* EMNLP 2019 [paper](https://arxiv.org/abs/1909.04076)
+1. **Abductive Commonsense Reasoning** *Chandra Bhagavatula, Ronan Le Bras, Chaitanya Malaviya, Keisuke Sakaguchi, Ari Holtzman, Hannah Rashkin, Doug Downey, Scott Wen-tau Yih, Yejin Choi* [paper](https://arxiv.org/abs/1908.05739) [website](https://leaderboard.allenai.org/anli/submissions/public)
 
 ## Plan
 #### Week 0 (2020.02.17-2020.02.23) 
