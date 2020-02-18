@@ -12,6 +12,7 @@
 1. **Differentiable Reasoning over a Virtual Knowledge Base** *Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen* [paper](https://openreview.net/forum?id=SJxstlHFPH)
 1. **Neural Module Networks for Reasoning over Text** *Nitish Gupta1, Kevin Lin2, Dan Roth, Sameer Singh & Matt Gardner*
 [paper](https://openreview.net/forum?id=SygWvAVFPr)
+1. **On the Capabilities and Limitations of Reasoning for Natural Language Understanding** *Daniel Khashabi, Erfan Sadeqi Azer, Tushar Khot, Ashish Sabharwal, Dan Roth* [paper](https://arxiv.org/pdf/1901.02522.pdf)
 
 ### Dataset
 
@@ -21,6 +22,10 @@
 1. **RC-QED: Evaluating Natural Language Derivations in Multi-Hop Reading Comprehension** *Naoya Inoue, Pontus Stenetorp, Kentaro Inui* [paper](https://arxiv.org/pdf/1910.04601.pdf)
 1. **Counterfactual Story Reasoning and Generation** *Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clark, Yejin Choi* EMNLP 2019 [paper](https://arxiv.org/abs/1909.04076)
 1. **Abductive Commonsense Reasoning** *Chandra Bhagavatula, Ronan Le Bras, Chaitanya Malaviya, Keisuke Sakaguchi, Ari Holtzman, Hannah Rashkin, Doug Downey, Scott Wen-tau Yih, Yejin Choi* [paper](https://arxiv.org/abs/1908.05739) [website](https://leaderboard.allenai.org/anli/submissions/public)
+2. **PIQA: Reasoning about Physical Commonsense in Natural Language.** *Yonatan Bisk, Rowan Zellers, Ronan Le Bras, Jianfeng Gao, Yejin Choi.* AAAI 2020 [paper](https://arxiv.org/pdf/1911.11641.pdf)
+3. **CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text.** *Koustuv Sinha, Shagun Sodhani, Jin Dong, Joelle Pineau, William L. Hamilton* EMNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1458.pdf) [code](https://github.com/facebookresearch/clutrr) [website](https://www.cs.mcgill.ca/~ksinha4/introducing-clutrr/)
+4. **COSMOS QA: Machine Reading Comprehension
+with Contextual Commonsense Reasoning** *Lifu Huang, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi* EMNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1243.pdf) [website](https://wilburone.github.io/cosmos/)
 
 ## Plan
 #### Week 0 (2020.02.17-2020.02.23) 
