@@ -1,6 +1,10 @@
 # Updating-Work-on-Text-Reasoning
 
 ## Related work
+### Review
+1. **A Review of Relational Machine Learning for Knowledge Graphs** *Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich* [paper](https://arxiv.org/abs/1503.00759)
+1. **What Can Neural Networks Reason About?** **ICLR 2020 spotlight** *Keyulu Xu, Jingling Li, Mozhi Zhang, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka* [paper](https://openreview.net/forum?id=rJxbJeHFPS)
+
 ### Method
 
 1. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs.** *Ming Tu, Guangtao Wang, Jing Huang, Yun Tang, Xiaodong He, Bowen Zhou.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1260.pdf) [code](https://github.com/JD-AI-Research-Silicon-Valley/HDEGraph)
@@ -14,8 +18,14 @@
 [paper](https://openreview.net/forum?id=SygWvAVFPr)
 1. **On the Capabilities and Limitations of Reasoning for Natural Language Understanding** *Daniel Khashabi, Erfan Sadeqi Azer, Tushar Khot, Ashish Sabharwal, Dan Roth* [paper](https://arxiv.org/pdf/1901.02522.pdf)
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** *Jingyi Xu, Zilu Zhang, Tal Friedman, Yitao Liang, Guy Van den Broeck* ICML 2018. [paper](https://arxiv.org/abs/1711.11157)
-1. **What Can Neural Networks Reason About?** **ICLR 2020 spotlight** *Keyulu Xu, Jingling Li, Mozhi Zhang, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka* [paper](https://openreview.net/forum?id=rJxbJeHFPS)
 
+
+#### Knowledge Distillation
+1. **Deep Neural Networks with Massive Learned Knowledge** *Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Eric Xing* EMNLP 2016 [paper](https://www.aclweb.org/anthology/D16-1173/)
+
+1. **Deep Generative Models with Learnable Knowledge Constraints** *Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Xiaodan Liang, Lianhui Qin, Haoye Dong, Eric Xing* NIPS 2018 [paper](https://arxiv.org/abs/1806.09764)
+
+1. **Toward Controlled Generation of Text** *Zhiting Hu, Zichao Yang, Xiaodan Liang,  Ruslan Salakhutdinov, Eric P. Xing* ICML 2017 [paper](https://arxiv.org/abs/1703.00955)
 
 ### Dataset
 
