@@ -13,6 +13,7 @@
 2. **Dynamically Fused Graph Network for Multi-hop Reasoning.** *Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1617.pdf)
 1. **A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning.** *Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li.* EMNLP 2019. [paper](https://www.aclweb.org/anthology/D19-1170.pdf) [code](https://github.com/huminghao16/MTMSN)
 1. **Multi-range Reasoning for Machine Comprehension.** *Yi Tay, Luu Anh Tuan, and Siu Cheung Hui* [paper](https://arxiv.org/pdf/1803.09074.pdf) 
+2. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering** *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong* ICLR 2020 [paper](https://openreview.net/attachment?id=SJgVHkrYDH&name=original_pdf) [code](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths)
 
 #### Logical reasoning
 1. **Probabilistic Logic Neural Networks for Reasoning.** *Meng Qu, Jian Tang.* NeurIPS 2019. [paper](https://arxiv.org/pdf/1906.08495.pdf)
@@ -22,6 +23,8 @@
 1. **Neural Module Networks for Reasoning over Text** *Nitish Gupta1, Kevin Lin2, Dan Roth, Sameer Singh & Matt Gardner*
 [paper](https://openreview.net/forum?id=SygWvAVFPr)
 1. **Neural Logic Machines** *Honghua Dong, Jiayuan Mao, Tian Lin, Chong Wang, Lihong Li, Denny Zhou* [paper](https://arxiv.org/abs/1904.11694)
+2. **Efficient Probabilistic Logic Reasoning with Graph Neural Networks** *Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/2001.11850.pdf) 
+3. **Can Graph Neural Networks Help Logic Reasoning?** *Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song*[paper](https://arxiv.org/pdf/1906.02111.pdf)
 
 
 
