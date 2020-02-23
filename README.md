@@ -24,7 +24,7 @@
 [paper](https://openreview.net/forum?id=SygWvAVFPr)
 1. **Neural Logic Machines** *Honghua Dong, Jiayuan Mao, Tian Lin, Chong Wang, Lihong Li, Denny Zhou* [paper](https://arxiv.org/abs/1904.11694)
 2. **Efficient Probabilistic Logic Reasoning with Graph Neural Networks** *Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/2001.11850.pdf) 
-3. **Can Graph Neural Networks Help Logic Reasoning?** *Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song*[paper](https://arxiv.org/pdf/1906.02111.pdf)
+3. **Can Graph Neural Networks Help Logic Reasoning?** *Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song* [paper](https://arxiv.org/pdf/1906.02111.pdf)
 
 
 
