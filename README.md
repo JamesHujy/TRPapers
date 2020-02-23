@@ -23,9 +23,8 @@
 1. **Neural Module Networks for Reasoning over Text** *Nitish Gupta1, Kevin Lin2, Dan Roth, Sameer Singh & Matt Gardner*
 [paper](https://openreview.net/forum?id=SygWvAVFPr)
 1. **Neural Logic Machines** *Honghua Dong, Jiayuan Mao, Tian Lin, Chong Wang, Lihong Li, Denny Zhou* [paper](https://arxiv.org/abs/1904.11694)
-2. **Efficient Probabilistic Logic Reasoning with Graph Neural Networks** *Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/2001.11850.pdf) 
-3. **Can Graph Neural Networks Help Logic Reasoning?** *Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song* [paper](https://arxiv.org/pdf/1906.02111.pdf)
-
+1. **Efficient Probabilistic Logic Reasoning with Graph Neural Networks** *Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/2001.11850.pdf) 
+1. **Learn to Explain Efficiently via Neural Logic Inductive Learning** *Yuan Yang, Le Song* ICLR 2020 [paper](https://openreview.net/forum?id=rJg76kStwH)
 
 
 
@@ -35,6 +34,8 @@
 1. **Deep Generative Models with Learnable Knowledge Constraints** *Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Xiaodan Liang, Lianhui Qin, Haoye Dong, Eric Xing* NIPS 2018 [paper](https://arxiv.org/abs/1806.09764)
 
 1. **Toward Controlled Generation of Text** *Zhiting Hu, Zichao Yang, Xiaodan Liang,  Ruslan Salakhutdinov, Eric P. Xing* ICML 2017 [paper](https://arxiv.org/abs/1703.00955)
+
+1. **Harnessing Deep Neural Networks with Logic Rules** *Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric Xing* [paper](https://arxiv.org/abs/1603.06318)
 
 ### Dataset
 
