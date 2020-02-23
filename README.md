@@ -24,7 +24,7 @@
 [paper](https://openreview.net/forum?id=SygWvAVFPr)
 1. **Neural Logic Machines** *Honghua Dong, Jiayuan Mao, Tian Lin, Chong Wang, Lihong Li, Denny Zhou* ICLR 2019 [paper](https://arxiv.org/abs/1904.11694)
 1. **Efficient Probabilistic Logic Reasoning with Graph Neural Networks** *Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/2001.11850.pdf) 
-1. **Learn to Explain Efficiently via Neural Logic Inductive Learning** *Yuan Yang, Le Song* ICLR 2020 [paper](https://openreview.net/forum?id=rJg76kStwH)
+1. **Learn to Explain Efficiently via Neural Logic Inductive Learning** *Yuan Yang, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/1910.02481.pdf)
 
 
 
