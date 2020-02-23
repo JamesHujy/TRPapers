@@ -20,9 +20,9 @@
 1. **Neural Symbolic Reader: Scalable Intergration of Distributed and Symbolic Representations for Reading Comprehension.** *Xinyuan Chen, Chen Liang, Adams Wei Yu, Denny Zhou, Dawn Song, Quoc V. Le* ICLR 2020. [paper](https://openreview.net/attachment?id=ryxjnREFwH&name=original_pdf) [code](https://github.com/yuweihao/reclor) [website](http://whyu.me/reclor/) [note](https://github.com/JamesHujy/Updating-Work-on-Text-Reasoning/blob/master/note/NeRd_Note.md)
 1. **Differentiable Reasoning over a Virtual Knowledge Base** *Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen* [paper](https://openreview.net/forum?id=SJxstlHFPH)
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** *Jingyi Xu, Zilu Zhang, Tal Friedman, Yitao Liang, Guy Van den Broeck* ICML 2018. [paper](https://arxiv.org/abs/1711.11157)
-1. **Neural Module Networks for Reasoning over Text** *Nitish Gupta1, Kevin Lin2, Dan Roth, Sameer Singh & Matt Gardner*
+1. **Neural Module Networks for Reasoning over Text** *Nitish Gupta1, Kevin Lin2, Dan Roth, Sameer Singh & Matt Gardner* ICLR 2020
 [paper](https://openreview.net/forum?id=SygWvAVFPr)
-1. **Neural Logic Machines** *Honghua Dong, Jiayuan Mao, Tian Lin, Chong Wang, Lihong Li, Denny Zhou* [paper](https://arxiv.org/abs/1904.11694)
+1. **Neural Logic Machines** *Honghua Dong, Jiayuan Mao, Tian Lin, Chong Wang, Lihong Li, Denny Zhou* ICLR 2019 [paper](https://arxiv.org/abs/1904.11694)
 1. **Efficient Probabilistic Logic Reasoning with Graph Neural Networks** *Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/2001.11850.pdf) 
 1. **Learn to Explain Efficiently via Neural Logic Inductive Learning** *Yuan Yang, Le Song* ICLR 2020 [paper](https://openreview.net/forum?id=rJg76kStwH)
 
@@ -35,7 +35,7 @@
 
 1. **Toward Controlled Generation of Text** *Zhiting Hu, Zichao Yang, Xiaodan Liang,  Ruslan Salakhutdinov, Eric P. Xing* ICML 2017 [paper](https://arxiv.org/abs/1703.00955)
 
-1. **Harnessing Deep Neural Networks with Logic Rules** *Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric Xing* [paper](https://arxiv.org/abs/1603.06318)
+1. **Harnessing Deep Neural Networks with Logic Rules** *Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric Xing* 2016 ACL [paper](https://arxiv.org/abs/1603.06318)
 
 ### Dataset
 
