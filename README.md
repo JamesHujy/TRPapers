@@ -6,7 +6,7 @@
 1. **What Can Neural Networks Reason About?** **ICLR 2020 spotlight** *Keyulu Xu, Jingling Li, Mozhi Zhang, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka* [paper](https://openreview.net/forum?id=rJxbJeHFPS)
 1. **On the Capabilities and Limitations of Reasoning for Natural Language Understanding** *Daniel Khashabi, Erfan Sadeqi Azer, Tushar Khot, Ashish Sabharwal, Dan Roth* [paper](https://arxiv.org/pdf/1901.02522.pdf)
 
-### Method
+### Methods
 
 #### Multi-hop reasoning
 1. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs.** *Ming Tu, Guangtao Wang, Jing Huang, Yun Tang, Xiaodong He, Bowen Zhou.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1260.pdf) [code](https://github.com/JD-AI-Research-Silicon-Valley/HDEGraph)
@@ -38,7 +38,7 @@
 
 1. **Harnessing Deep Neural Networks with Logic Rules** *Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric Xing* 2016 ACL [paper](https://arxiv.org/abs/1603.06318)
 
-### Dataset
+### Datasets
 
 1. **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs.** *Dheeru Dua, Yizhong Wang, Pradeep Dasigi, Gabriel Stanovsky, Sameer Singh, and Matt Gardner.* NAACL 2019. [paper](aclweb.org/anthology/N19-1246.pdf) [data](https://s3-us-west-2.amazonaws.com/allennlp/datasets/drop/drop_dataset.zip) [website](https://allennlp.org/drop) 
 1. **ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning.** 
@@ -50,6 +50,9 @@
 3. **CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text.** *Koustuv Sinha, Shagun Sodhani, Jin Dong, Joelle Pineau, William L. Hamilton* EMNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1458.pdf) [code](https://github.com/facebookresearch/clutrr) [website](https://www.cs.mcgill.ca/~ksinha4/introducing-clutrr/)
 4. **COSMOS QA: Machine Reading Comprehension
 with Contextual Commonsense Reasoning** *Lifu Huang, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi* EMNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1243.pdf) [website](https://wilburone.github.io/cosmos/)
+
+### Tutorials
+1. **Logic and Proof** *Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn* [website](https://leanprover.github.io/logic_and_proof/index.html)
 
 ## Plan
 #### Week 0 (2020.02.17-2020.02.23) 
