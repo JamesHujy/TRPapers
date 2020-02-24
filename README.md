@@ -52,4 +52,8 @@ with Contextual Commonsense Reasoning** *Lifu Huang, Ronan Le Bras, Chandra Bhag
 
 ## Plan
 #### Week 0 (2020.02.17-2020.02.23) 
-Search relative method and dataset
+* Search relative method and dataset
+
+#### Week 1 (2020.02.24-2020.03.01)
+* Organizing the papers we have read and prepare for presenting them.    
+* Focus on the logical reasoning and keep on reading papers.
