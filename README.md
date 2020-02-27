@@ -22,7 +22,7 @@
 
 #### Multi-hop reasoning
 1. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering** *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong* ICLR 2020 [paper](https://arxiv.org/abs/1911.10470)
-2. **Transformer-XH:Transformer-XH: Multi-Evidence Reasoning with eXtra Hop Attention** *Chen Zhao, Chenyan Xiong, Corby Rosset, Xia Song, Paul Bennett, Saurabh Tiwary* ICLR 2020 [paper](https://openreview.net/forum?id=r1eIiCNYwS)
+2. **Transformer-XH:Multi-Evidence Reasoning with eXtra Hop Attention** *Chen Zhao, Chenyan Xiong, Corby Rosset, Xia Song, Paul Bennett, Saurabh Tiwary* ICLR 2020 [paper](https://openreview.net/forum?id=r1eIiCNYwS)
 1. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs.** *Ming Tu, Guangtao Wang, Jing Huang, Yun Tang, Xiaodong He, Bowen Zhou.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1260.pdf) [code](https://github.com/JD-AI-Research-Silicon-Valley/HDEGraph)
 1. **Dynamically Fused Graph Network for Multi-hop Reasoning.** *Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1617.pdf)
 1. **A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning.** *Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li.* EMNLP 2019. [paper](https://www.aclweb.org/anthology/D19-1170.pdf) [code](https://github.com/huminghao16/MTMSN)
