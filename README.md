@@ -21,14 +21,14 @@
 2. **Transformers as Soft Reasoners over Language** *Peter Clark, Oyvind Tafjord, Kyle Richardson* [paper](https://arxiv.org/pdf/2002.05867.pdf) [demo](https://rule-reasoning.apps.allenai.org/)
 
 #### Multi-hop reasoning
-1. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering** *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong* ICLR 2020 [paper](https://arxiv.org/abs/1911.10470)
-2. **Transformer-XH:Multi-Evidence Reasoning with eXtra Hop Attention** *Chen Zhao, Chenyan Xiong, Corby Rosset, Xia Song, Paul Bennett, Saurabh Tiwary* ICLR 2020 [paper](https://openreview.net/forum?id=r1eIiCNYwS)
+1. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering** *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong.* ICLR 2020 [paper](https://arxiv.org/abs/1911.10470) [code](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths)
+2. **Transformer-XH:Multi-Evidence Reasoning with eXtra Hop Attention** *Chen Zhao, Chenyan Xiong, Corby Rosset, Xia Song, Paul Bennett, Saurabh Tiwary.* ICLR 2020 [paper](https://openreview.net/pdf?id=r1eIiCNYwS)
 1. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs.** *Ming Tu, Guangtao Wang, Jing Huang, Yun Tang, Xiaodong He, Bowen Zhou.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1260.pdf) [code](https://github.com/JD-AI-Research-Silicon-Valley/HDEGraph)
+2. **Cognitive Graph for Multi-Hop Reading Comprehension at Scale** *Ming Ding, Chang Zhou, Qibin Chen, Hongxia Yang, Jie Tang.* ACL 2019 [paper](https://arxiv.org/pdf/1905.05460.pdf)
 1. **Dynamically Fused Graph Network for Multi-hop Reasoning.** *Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1617.pdf)
 1. **A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning.** *Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li.* EMNLP 2019. [paper](https://www.aclweb.org/anthology/D19-1170.pdf) [code](https://github.com/huminghao16/MTMSN)
 1. **Multi-range Reasoning for Machine Comprehension.** *Yi Tay, Luu Anh Tuan, and Siu Cheung Hui* [paper](https://arxiv.org/pdf/1803.09074.pdf) 
-1. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering** *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong* ICLR 2020 [paper](https://openreview.net/attachment?id=SJgVHkrYDH&name=original_pdf) [code](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths)
-1. **Differentiable Reasoning Over A Virtual Knowledge Base** *Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov1, William W. Cohen* ICLR 2020 [paper](https://openreview.net/pdf?id=SJxstlHFPH)
+1. **Differentiable Reasoning Over A Virtual Knowledge Base** *Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov1, William W. Cohen.* ICLR 2020 [paper](https://openreview.net/pdf?id=SJxstlHFPH)
 
 
 
