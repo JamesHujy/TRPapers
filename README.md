@@ -29,7 +29,7 @@
 1. **A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning.** *Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li.* EMNLP 2019. [paper](https://www.aclweb.org/anthology/D19-1170.pdf) [code](https://github.com/huminghao16/MTMSN)
 1. **Multi-range Reasoning for Machine Comprehension.** *Yi Tay, Luu Anh Tuan, and Siu Cheung Hui* [paper](https://arxiv.org/pdf/1803.09074.pdf) 
 1. **Differentiable Reasoning Over A Virtual Knowledge Base** *Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov1, William W. Cohen.* ICLR 2020 [paper](https://openreview.net/pdf?id=SJxstlHFPH)
-
+1. **Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base** *William W. Cohen, Haitian Sun, R. Alex Hofer, Matthew Siegler* ICLR 2020 [paper](https://arxiv.org/abs/2002.06115)
 
 
 #### Knowledge Distillation
