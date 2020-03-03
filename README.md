@@ -30,6 +30,7 @@
 1. **Multi-range Reasoning for Machine Comprehension.** *Yi Tay, Luu Anh Tuan, and Siu Cheung Hui* [paper](https://arxiv.org/pdf/1803.09074.pdf) 
 1. **Differentiable Reasoning Over A Virtual Knowledge Base** *Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov1, William W. Cohen.* ICLR 2020 [paper](https://openreview.net/pdf?id=SJxstlHFPH)
 1. **Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base** *William W. Cohen, Haitian Sun, R. Alex Hofer, Matthew Siegler* ICLR 2020 [paper](https://arxiv.org/abs/2002.06115)
+1. **Knowledge Guided Text Retrieval and Reading for Open Domain Question Answering** *Sewon Min, Danqi Chen, Luke Zettlemoyer, Hannaneh Hajishirzi* [paper](https://arxiv.org/abs/1911.03868)
 
 
 #### Knowledge Distillation
