@@ -62,7 +62,7 @@ for Fact Verification** *Jie Zhou, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang,
 
 ### Tutorials
 1. **Logic and Proof** *Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn* [website](https://leanprover.github.io/logic_and_proof/index.html)
-2. **Graph Neural Networks for Natural Language Processing** *Shikhar Vashishth, Y. Naganand, Partha Talukdar* EMNLP 2019 Tutorial [slices](https://shikhar-vashishth.github.io/assets/pdf/emnlp19_tutorial.pdf)
+2. **Graph Neural Networks for Natural Language Processing** *Shikhar Vashishth, Y. Naganand, Partha Talukdar* EMNLP 2019 Tutorial [slides](https://shikhar-vashishth.github.io/assets/pdf/emnlp19_tutorial.pdf)
 
 ## Plan
 #### Week 0 (2020.02.17-2020.02.23) 
