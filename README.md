@@ -2,7 +2,7 @@
 
 ## [Content](#Content)
 
-#### <a href="#Related-Work">Related Work</a>
+<a href="#Related-Work">Related Work</a>
 <table>
 <tr><td colspan="2"><a href="#Review">1. Review</a></td></tr> 
 <tr><td colspan="2"><a href="#Methods">2. Methods</a></td></tr>
@@ -18,7 +18,7 @@
 <tr><td colspan="2"><a href="#Tutorials">4. Tutorials</a></td></tr> 
 </table>
 
-#### <a href="#Plan">Plan</a>
+<a href="#Plan">Plan</a>
 
 ## [Related Work](#Content)
 ### [Review](#Content)
