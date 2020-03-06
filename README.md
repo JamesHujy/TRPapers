@@ -2,22 +2,23 @@
 
 ## [Content](#Content)
 
-#### [Related Work](#Related Work)
+#### <a href="#Related Work">Review</a>
 <table>
 <tr><td colspan="2"><a href="#Review">1. Review</a></td></tr> 
 <tr><td colspan="2"><a href="#Methods">2. Methods</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#Logical Reasoning">2.1 Logical Reasoning</a></td>
-    <td>&ensp;<a href="#Multi-hop Reasoning">2.2 Multi-hop Reasoning</a></td>
+    <td>&emsp;<a href="#Logical-Reasoning">2.1 Logical Reasoning</a></td>
+    <td>&ensp;<a href="#Multi-hop-Reasoning">2.2 Multi-hop Reasoning</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Knowledge Distillation">2.3 Knowledge Distillation</a></td>
-    <td>&ensp;<a href="#Fact Verification">2.4 Fact Verification</a></td>
+    <td>&emsp;<a href="#Knowledge-Distillation">2.3 Knowledge Distillation</a></td>
+    <td>&ensp;<a href="#Fact-Verification">2.4 Fact Verification</a></td>
 </tr>
 <tr><td colspan="2"><a href="#Dataset">3. Datasets</a></td></tr> 
 <tr><td colspan="2"><a href="#Tutorials">4. Tutorials</a></td></tr> 
 </table>
-#### [Plan](#Plan)
+#### <a href="#Plan">Plan</a>
+
 ## [Related Work](#Content)
 ### [Review](#Content)
 1. **A Review of Relational Machine Learning for Knowledge Graphs** *Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich* [paper](https://arxiv.org/abs/1503.00759)
