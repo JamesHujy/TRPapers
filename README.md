@@ -2,7 +2,7 @@
 
 ## [Content](#Content)
 
-#### <a href="#Related Work">Review</a>
+#### <a href="#Related-Work">Related Work</a>
 <table>
 <tr><td colspan="2"><a href="#Review">1. Review</a></td></tr> 
 <tr><td colspan="2"><a href="#Methods">2. Methods</a></td></tr>
@@ -14,9 +14,10 @@
     <td>&emsp;<a href="#Knowledge-Distillation">2.3 Knowledge Distillation</a></td>
     <td>&ensp;<a href="#Fact-Verification">2.4 Fact Verification</a></td>
 </tr>
-<tr><td colspan="2"><a href="#Dataset">3. Datasets</a></td></tr> 
+<tr><td colspan="2"><a href="#Datasets">3. Datasets</a></td></tr> 
 <tr><td colspan="2"><a href="#Tutorials">4. Tutorials</a></td></tr> 
 </table>
+
 #### <a href="#Plan">Plan</a>
 
 ## [Related Work](#Content)
