@@ -1,15 +1,33 @@
 # Updating-Work-on-Text-Reasoning
 
-## Related work
-### Review
+## [Content](#Content)
+
+#### [Related Work](#Related Work)
+<table>
+<tr><td colspan="2"><a href="#Review">1. Review</a></td></tr> 
+<tr><td colspan="2"><a href="#Methods">2. Methods</a></td></tr>
+<tr>
+    <td>&emsp;<a href="#Logical Reasoning">2.1 Logical Reasoning</a></td>
+    <td>&ensp;<a href="#Multi-hop Reasoning">2.2 Multi-hop Reasoning</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#Knowledge Distillation">2.3 Knowledge Distillation</a></td>
+    <td>&ensp;<a href="#Fact Verification">2.4 Fact Verification</a></td>
+</tr>
+<tr><td colspan="2"><a href="#Dataset">3. Datasets</a></td></tr> 
+<tr><td colspan="2"><a href="#Tutorials">4. Tutorials</a></td></tr> 
+</table>
+#### [Plan](#Plan)
+## [Related Work](#Content)
+### [Review](#Content)
 1. **A Review of Relational Machine Learning for Knowledge Graphs** *Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich* [paper](https://arxiv.org/abs/1503.00759)
 1. **What Can Neural Networks Reason About?** **ICLR 2020 spotlight** *Keyulu Xu, Jingling Li, Mozhi Zhang, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka* [paper](https://openreview.net/forum?id=rJxbJeHFPS)
 1. **On the Capabilities and Limitations of Reasoning for Natural Language Understanding** *Daniel Khashabi, Erfan Sadeqi Azer, Tushar Khot, Ashish Sabharwal, Dan Roth* [paper](https://arxiv.org/pdf/1901.02522.pdf)
 1. **Turning 30: New Ideas in Inductive Logic Programming** *Andrew Cropper, Sebastijan Dumančić, Stephen H. Muggleton* [paper](https://arxiv.org/abs/2002.11002v2)
 
-### Methods
+### [Methods](#Content)
 
-#### Logical reasoning
+#### [Logical Reasoning](#Content)
 1. **Probabilistic Logic Neural Networks for Reasoning.** *Meng Qu, Jian Tang.* NeurIPS 2019. [paper](https://arxiv.org/pdf/1906.08495.pdf)
 1. **Neural Symbolic Reader: Scalable Intergration of Distributed and Symbolic Representations for Reading Comprehension.** *Xinyuan Chen, Chen Liang, Adams Wei Yu, Denny Zhou, Dawn Song, Quoc V. Le* ICLR 2020. [paper](https://openreview.net/pdf?id=ryxjnREFwH) [code](https://github.com/yuweihao/reclor) [website](http://whyu.me/reclor/) [note](https://github.com/JamesHujy/Updating-Work-on-Text-Reasoning/blob/master/note/NeRd_Note.md)
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** *Jingyi Xu, Zilu Zhang, Tal Friedman, Yitao Liang, Guy Van den Broeck* ICML 2018. [paper](https://arxiv.org/abs/1711.11157)
@@ -21,7 +39,7 @@
 1. **The Logical Expressiveness of Graph Neural Network** *Pablo Barcelo, Egor V. Kostylev, Mikael Monet, Jorge Perez, Juan Reutter, Juan-Pablo Silva* ICLR 2020 [paper](https://openreview.net/pdf?id=r1lZ7AEKvB)
 2. **Transformers as Soft Reasoners over Language** *Peter Clark, Oyvind Tafjord, Kyle Richardson* [paper](https://arxiv.org/pdf/2002.05867.pdf) [demo](https://rule-reasoning.apps.allenai.org/)
 
-#### Multi-hop reasoning
+#### [Multi-hop Reasoning](#Content)
 1. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering** *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong.* ICLR 2020 [paper](https://arxiv.org/abs/1911.10470) [code](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths)
 2. **Transformer-XH:Multi-Evidence Reasoning with eXtra Hop Attention** *Chen Zhao, Chenyan Xiong, Corby Rosset, Xia Song, Paul Bennett, Saurabh Tiwary.* ICLR 2020 [paper](https://openreview.net/pdf?id=r1eIiCNYwS)
 1. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs.** *Ming Tu, Guangtao Wang, Jing Huang, Yun Tang, Xiaodong He, Bowen Zhou.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1260.pdf) [code](https://github.com/JD-AI-Research-Silicon-Valley/HDEGraph)
@@ -34,7 +52,7 @@
 1. **Knowledge Guided Text Retrieval and Reading for Open Domain Question Answering** *Sewon Min, Danqi Chen, Luke Zettlemoyer, Hannaneh Hajishirzi* [paper](https://arxiv.org/abs/1911.03868)
 
 
-#### Knowledge Distillation
+#### [Knowledge Distillation](#Content)
 1. **Deep Neural Networks with Massive Learned Knowledge** *Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Eric Xing* EMNLP 2016 [paper](https://www.aclweb.org/anthology/D16-1173/)
 
 1. **Deep Generative Models with Learnable Knowledge Constraints** *Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Xiaodan Liang, Lianhui Qin, Haoye Dong, Eric Xing* NIPS 2018 [paper](https://arxiv.org/abs/1806.09764)
@@ -43,11 +61,11 @@
 
 1. **Harnessing Deep Neural Networks with Logic Rules** *Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric Xing* 2016 ACL [paper](https://arxiv.org/abs/1603.06318)
 
-#### Fact Verification
+#### [Fact Verification](#Content)
 1. **GEAR: Graph-based Evidence Aggregating and Reasoning
 for Fact Verification** *Jie Zhou, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun.* ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1085.pdf)
 
-### Datasets
+### [Datasets](#Content)
 
 1. **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs.** *Dheeru Dua, Yizhong Wang, Pradeep Dasigi, Gabriel Stanovsky, Sameer Singh, and Matt Gardner.* NAACL 2019. [paper](aclweb.org/anthology/N19-1246.pdf) [data](https://s3-us-west-2.amazonaws.com/allennlp/datasets/drop/drop_dataset.zip) [website](https://allennlp.org/drop) 
 2. **HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering** *Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William W. Cohen, Ruslan Salakhutdinov, Christopher D. Manning.* EMNLP 2018 [paper](https://arxiv.org/pdf/1809.09600.pdf) [website](https://hotpotqa.github.io/)
@@ -60,14 +78,19 @@ for Fact Verification** *Jie Zhou, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang,
 3. **CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text.** *Koustuv Sinha, Shagun Sodhani, Jin Dong, Joelle Pineau, William L. Hamilton* EMNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1458.pdf) [code](https://github.com/facebookresearch/clutrr) [website](https://www.cs.mcgill.ca/~ksinha4/introducing-clutrr/)
 9. **COSMOS QA: Machine Reading Comprehension with Contextual Commonsense Reasoning** *Lifu Huang, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi* EMNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1243.pdf) [website](https://wilburone.github.io/cosmos/)
 
-### Tutorials
+### [Tutorials](#Content)
 1. **Logic and Proof** *Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn* [website](https://leanprover.github.io/logic_and_proof/index.html)
 2. **Graph Neural Networks for Natural Language Processing** *Shikhar Vashishth, Y. Naganand, Partha Talukdar* EMNLP 2019 Tutorial [slides](https://shikhar-vashishth.github.io/assets/pdf/emnlp19_tutorial.pdf)
 
-## Plan
+## [Plan](#Content)
 #### Week 0 (2020.02.17-2020.02.23) 
 * Search relative method and dataset
 
 #### Week 1 (2020.02.24-2020.03.01)
 * Organizing the papers we have read and prepare for presenting them.    
 * Focus on the logical reasoning and keep on reading papers.
+
+#### Week 2 (2020.03.02-2020.03.08)
+* Meeting online and discuss what have done
+* Focus on logical reasoning on rules expressed by natural language.
+* Potentially start with open information extraction, build a logic graph or transfer it into a formula and then reason on it.
