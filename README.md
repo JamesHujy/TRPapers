@@ -11,8 +11,11 @@
     <td>&ensp;<a href="#Multi-hop-Reasoning">2.2 Multi-hop Reasoning</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Knowledge-Distillation">2.3 Knowledge Distillation</a></td>
+     <td>&ensp;<a href="#Fact-Verification">2.3 Relation Extraction</a></td>
     <td>&ensp;<a href="#Fact-Verification">2.4 Fact Verification</a></td>
+</tr>
+<tr>
+<td>&emsp;<a href="#Knowledge-Distillation">2.5 Knowledge Distillation</a></td>
 </tr>
 <tr><td colspan="2"><a href="#Datasets">3. Datasets</a></td></tr> 
 <tr><td colspan="2"><a href="#Tutorials">4. Tutorials</a></td></tr> 
@@ -53,6 +56,9 @@
 1. **Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base** *William W. Cohen, Haitian Sun, R. Alex Hofer, Matthew Siegler* ICLR 2020 [paper](https://arxiv.org/abs/2002.06115)
 1. **Knowledge Guided Text Retrieval and Reading for Open Domain Question Answering** *Sewon Min, Danqi Chen, Luke Zettlemoyer, Hannaneh Hajishirzi* [paper](https://arxiv.org/abs/1911.03868)
 
+#### [Relation Extraction](#Content)
+
+1. **(OpenIE) Leveraging Linguistic Structure For Open Domain Information Extraction** *Gabor Angeli, Melvin Johnson Premkumar, Christopher D. Manning* [paper](https://nlp.stanford.edu/pubs/2015angeli-openie.pdf)
 
 #### [Knowledge Distillation](#Content)
 1. **Deep Neural Networks with Massive Learned Knowledge** *Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Eric Xing* EMNLP 2016 [paper](https://www.aclweb.org/anthology/D16-1173/)
