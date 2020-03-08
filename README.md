@@ -11,7 +11,7 @@
     <td>&ensp;<a href="#Multi-hop-Reasoning">2.2 Multi-hop Reasoning</a></td>
 </tr>
 <tr>
-     <td>&ensp;<a href="#Relation Extraction">2.3 Relation Extraction</a></td>
+     <td>&ensp;<a href="#Relation-Extraction">2.3 Relation Extraction</a></td>
     <td>&ensp;<a href="#Fact-Verification">2.4 Fact Verification</a></td>
 </tr>
 <tr>
