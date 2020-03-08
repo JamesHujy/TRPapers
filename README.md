@@ -11,7 +11,7 @@
     <td>&ensp;<a href="#Multi-hop-Reasoning">2.2 Multi-hop Reasoning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#Rule Learning">2.3 Rule Learning</a></td>
+    <td>&ensp;<a href="#Rule-Learning">2.3 Rule Learning</a></td>
     <td>&ensp;<a href="#Relation-Extraction">2.4 Relation Extraction</a></td>
     
 </tr>
@@ -48,6 +48,7 @@
 
 #### [Rule Learning](#Content)
 1. **(NLIL) Learn to Explain Efficiently via Neural Logic Inductive Learning** *Yuan Yang, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/1910.02481.pdf)
+2. **Scalable Rule Learning via Learning Representation** *Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang* IJCAI 2018 [paper](https://www.ijcai.org/Proceedings/2018/0297.pdf) 
 1. **(NeuralLP) Differentiable Learning of Logical Rules for Knowledge Base Reasoning** *Fan Yang, Zhilin Yang, William W. Cohen* NIPS 2017 [paper](https://arxiv.org/abs/1702.08367)
 
 #### [Multi-hop Reasoning](#Content)
