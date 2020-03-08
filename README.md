@@ -11,11 +11,12 @@
     <td>&ensp;<a href="#Multi-hop-Reasoning">2.2 Multi-hop Reasoning</a></td>
 </tr>
 <tr>
-     <td>&ensp;<a href="#Fact-Verification">2.3 Relation Extraction</a></td>
+     <td>&ensp;<a href="#Relation Extraction">2.3 Relation Extraction</a></td>
     <td>&ensp;<a href="#Fact-Verification">2.4 Fact Verification</a></td>
 </tr>
 <tr>
 <td>&emsp;<a href="#Knowledge-Distillation">2.5 Knowledge Distillation</a></td>
+<td></td>
 </tr>
 <tr><td colspan="2"><a href="#Datasets">3. Datasets</a></td></tr> 
 <tr><td colspan="2"><a href="#Tutorials">4. Tutorials</a></td></tr> 
@@ -87,8 +88,10 @@ for Fact Verification** *Jie Zhou, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang,
 9. **COSMOS QA: Machine Reading Comprehension with Contextual Commonsense Reasoning** *Lifu Huang, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi* EMNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1243.pdf) [website](https://wilburone.github.io/cosmos/)
 
 ### [Tutorials](#Content)
+1. **Mining Knowledge Graphs from Text** *Jay Pujara, Sameer Singh* [website](https://kgtutorial.github.io/)
 1. **Logic and Proof** *Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn* [website](https://leanprover.github.io/logic_and_proof/index.html)
 2. **Graph Neural Networks for Natural Language Processing** *Shikhar Vashishth, Y. Naganand, Partha Talukdar* EMNLP 2019 Tutorial [slides](https://shikhar-vashishth.github.io/assets/pdf/emnlp19_tutorial.pdf)
+
 
 ## [Plan](#Content)
 #### Week 0 (2020.02.17-2020.02.23) 
