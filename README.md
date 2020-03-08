@@ -18,7 +18,7 @@
 <tr>
 <td>&ensp;<a href="#Fact-Verification">2.5 Fact Verification</a></td>
 <td>&emsp;<a href="#Knowledge-Distillation">2.6 Knowledge Distillation</a></td>
-<td></td>
+
 </tr>
 <tr><td colspan="2"><a href="#Datasets">3. Datasets</a></td></tr> 
 <tr><td colspan="2"><a href="#Tutorials">4. Tutorials</a></td></tr> 
