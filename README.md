@@ -50,6 +50,7 @@
 1. **(NLIL) Learn to Explain Efficiently via Neural Logic Inductive Learning** *Yuan Yang, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/1910.02481.pdf)
 2. **Scalable Rule Learning via Learning Representation** *Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang* IJCAI 2018 [paper](https://www.ijcai.org/Proceedings/2018/0297.pdf) 
 1. **(NeuralLP) Differentiable Learning of Logical Rules for Knowledge Base Reasoning** *Fan Yang, Zhilin Yang, William W. Cohen* NIPS 2017 [paper](https://arxiv.org/abs/1702.08367)
+1. **(roundILP) Learning Explanatory Rules from Noisy Data** *Richard Evans, Edward Grefenstette* JAIR 2017 [paper](https://arxiv.org/abs/1711.04574)
 
 #### [Multi-hop Reasoning](#Content)
 1. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering** *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong.* ICLR 2020 [paper](https://arxiv.org/abs/1911.10470) [code](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths)
