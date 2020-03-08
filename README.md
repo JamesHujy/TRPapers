@@ -11,11 +11,13 @@
     <td>&ensp;<a href="#Multi-hop-Reasoning">2.2 Multi-hop Reasoning</a></td>
 </tr>
 <tr>
-     <td>&ensp;<a href="#Relation-Extraction">2.3 Relation Extraction</a></td>
-    <td>&ensp;<a href="#Fact-Verification">2.4 Fact Verification</a></td>
+    <td>&ensp;<a href="#Rule Learning">2.3 Rule Learning</a></td>
+    <td>&ensp;<a href="#Relation-Extraction">2.4 Relation Extraction</a></td>
+    
 </tr>
 <tr>
-<td>&emsp;<a href="#Knowledge-Distillation">2.5 Knowledge Distillation</a></td>
+<td>&ensp;<a href="#Fact-Verification">2.5 Fact Verification</a></td>
+<td>&emsp;<a href="#Knowledge-Distillation">2.6 Knowledge Distillation</a></td>
 <td></td>
 </tr>
 <tr><td colspan="2"><a href="#Datasets">3. Datasets</a></td></tr> 
@@ -41,9 +43,12 @@
 [paper](https://openreview.net/pdf?id=SygWvAVFPr)
 1. **Neural Logic Machines** *Honghua Dong, Jiayuan Mao, Tian Lin, Chong Wang, Lihong Li, Denny Zhou* ICLR 2019 [paper](https://arxiv.org/abs/1904.11694)
 1. **Efficient Probabilistic Logic Reasoning with Graph Neural Networks** *Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/2001.11850.pdf) 
-1. **Learn to Explain Efficiently via Neural Logic Inductive Learning** *Yuan Yang, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/1910.02481.pdf)
 1. **The Logical Expressiveness of Graph Neural Network** *Pablo Barcelo, Egor V. Kostylev, Mikael Monet, Jorge Perez, Juan Reutter, Juan-Pablo Silva* ICLR 2020 [paper](https://openreview.net/pdf?id=r1lZ7AEKvB)
 2. **Transformers as Soft Reasoners over Language** *Peter Clark, Oyvind Tafjord, Kyle Richardson* [paper](https://arxiv.org/pdf/2002.05867.pdf) [demo](https://rule-reasoning.apps.allenai.org/)
+
+#### [Rule Learning](#Content)
+1. **(NLIL) Learn to Explain Efficiently via Neural Logic Inductive Learning** *Yuan Yang, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/1910.02481.pdf)
+1. **(NeuralLP) Differentiable Learning of Logical Rules for Knowledge Base Reasoning** *Fan Yang, Zhilin Yang, William W. Cohen* NIPS 2017 [paper](https://arxiv.org/abs/1702.08367)
 
 #### [Multi-hop Reasoning](#Content)
 1. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering** *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong.* ICLR 2020 [paper](https://arxiv.org/abs/1911.10470) [code](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths)
