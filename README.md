@@ -49,6 +49,9 @@
 #### [Rule Learning](#Content)
 1. **(NLIL) Learn to Explain Efficiently via Neural Logic Inductive Learning** *Yuan Yang, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/1910.02481.pdf)
 2. **Scalable Rule Learning via Learning Representation** *Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang* IJCAI 2018 [paper](https://www.ijcai.org/Proceedings/2018/0297.pdf) 
+3. **Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning** *Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen* [paper](https://arxiv.org/pdf/1903.08948.pdf) 
+4. **Differentiable Reasoning on Large Knowledge Bases and Natural Language** *Pasquale Minervini, Matko Bošnjak, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette* [paper](https://arxiv.org/pdf/1912.10824.pdf) 
+3. **Learning Explanatory Rules from Noisy Data.** *Richard Evans, Edward Grefenstette.* [paper](https://www.ijcai.org/Proceedings/2018/0792.pdf)
 1. **(NeuralLP) Differentiable Learning of Logical Rules for Knowledge Base Reasoning** *Fan Yang, Zhilin Yang, William W. Cohen* NIPS 2017 [paper](https://arxiv.org/abs/1702.08367)
 
 #### [Multi-hop Reasoning](#Content)
