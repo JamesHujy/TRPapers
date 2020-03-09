@@ -53,6 +53,7 @@
 4. **Differentiable Reasoning on Large Knowledge Bases and Natural Language** *Pasquale Minervini, Matko Bošnjak, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette* [paper](https://arxiv.org/pdf/1912.10824.pdf) 
 3. **Learning Explanatory Rules from Noisy Data.** *Richard Evans, Edward Grefenstette.* [paper](https://www.ijcai.org/Proceedings/2018/0792.pdf)
 1. **(NeuralLP) Differentiable Learning of Logical Rules for Knowledge Base Reasoning** *Fan Yang, Zhilin Yang, William W. Cohen* NIPS 2017 [paper](https://arxiv.org/abs/1702.08367)
+1. **(roundILP) Learning Explanatory Rules from Noisy Data** *Richard Evans, Edward Grefenstette* JAIR 2017 [paper](https://arxiv.org/abs/1711.04574)
 
 #### [Multi-hop Reasoning](#Content)
 1. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering** *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong.* ICLR 2020 [paper](https://arxiv.org/abs/1911.10470) [code](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths)
