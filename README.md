@@ -51,10 +51,13 @@
 1. **(NLIL) Learn to Explain Efficiently via Neural Logic Inductive Learning** *Yuan Yang, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/1910.02481.pdf)
 2. **Scalable Rule Learning via Learning Representation** *Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang* IJCAI 2018 [paper](https://www.ijcai.org/Proceedings/2018/0297.pdf)  
 3. **($\partial$ILP) Learning Explanatory Rules from Noisy Data.** *Richard Evans, Edward Grefenstette.* [paper](https://www.ijcai.org/Proceedings/2018/0792.pdf)
+4. **NLProlog: Reasoning with Weak Unification for Natural Language Question Answering** *Leon Weber, Pasquale Minervini, Ulf Leser, Tim Rocktäschel* [paper](https://openreview.net/forum?id=ByfXe2C5tm)
 1. **(NeuralLP) Differentiable Learning of Logical Rules for Knowledge Base Reasoning** *Fan Yang, Zhilin Yang, William W. Cohen* NIPS 2017 [paper](https://arxiv.org/abs/1702.08367)
 1. **(roundILP) Learning Explanatory Rules from Noisy Data** *Richard Evans, Edward Grefenstette* JAIR 2017 [paper](https://arxiv.org/abs/1711.04574)
 2. **Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning** *Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen* [paper](https://arxiv.org/pdf/1903.08948.pdf) 
 4. **Differentiable Reasoning on Large Knowledge Bases and Natural Language** *Pasquale Minervini, Matko Bošnjak, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette* [paper](https://arxiv.org/pdf/1912.10824.pdf)
+5. **Addressing a Question Answering Challenge by Combining
+Statistical Methods with Inductive Rule Learning and Reasoning** *Arindam Mitra, Chitta Baral* AAAI 2016 [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12345/12022)
 
 #### [Multi-hop Reasoning](#Content)
 1. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering** *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong.* ICLR 2020 [paper](https://arxiv.org/abs/1911.10470) [code](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths)
@@ -88,6 +91,7 @@ for Fact Verification** *Jie Zhou, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang,
 ### [Datasets](#Content)
 
 1. **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs.** *Dheeru Dua, Yizhong Wang, Pradeep Dasigi, Gabriel Stanovsky, Sameer Singh, and Matt Gardner.* NAACL 2019. [paper](aclweb.org/anthology/N19-1246.pdf) [data](https://s3-us-west-2.amazonaws.com/allennlp/datasets/drop/drop_dataset.zip) [website](https://allennlp.org/drop) 
+2. **(bAbI)Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks** *Jason Weston, Antoine Bordes, Sumit Chopra, Alexander M. Rush, Bart van Merriënboer, Armand Joulin, Tomas Mikolov* ICLR 2016 [paper](https://arxiv.org/pdf/1502.05698.pdf) [website](https://research.fb.com/downloads/babi/)
 2. **HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering** *Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William W. Cohen, Ruslan Salakhutdinov, Christopher D. Manning.* EMNLP 2018 [paper](https://arxiv.org/pdf/1809.09600.pdf) [website](https://hotpotqa.github.io/)
 1. **ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning.** 
 *Weihao Yu, Zihang Jiang, Yanfei Dong, Jiashi Feng.* ICLR 2020. [paper](https://arxiv.org/pdf/2002.04326.pdf) [code](https://github.com/yuweihao/reclor) [website](http://whyu.me/reclor/) [note](https://github.com/JamesHujy/Updating-Work-on-Text-Reasoning/blob/master/note/ReClor_Note.md)
