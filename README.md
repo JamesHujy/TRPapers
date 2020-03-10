@@ -54,6 +54,8 @@
 4. **NLProlog: Reasoning with Weak Unification for Natural Language Question Answering** *Leon Weber, Pasquale Minervini, Ulf Leser, Tim Rocktäschel* ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1618.pdf)
 5. **DeepProbLog: Neural Probabilistic Logic Programming** *Robin Manhaeve
 Sebastijan Dumancic, Angelika Kimmig, Thomas Demeester, Luc De Raedt* NIPS 2018 [paper](http://papers.nips.cc/paper/7632-deepproblog-neural-probabilistic-logic-programming.pdf)
+6. **Generating Logical Forms from Graph Representations of Text and
+Entities** *Peter Shaw, Philip Massey, Angelica Chen, Francesco Piccinno, Yasemin Altun* ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1010.pdf)
 1. **(NeuralLP) Differentiable Learning of Logical Rules for Knowledge Base Reasoning** *Fan Yang, Zhilin Yang, William W. Cohen* NIPS 2017 [paper](https://arxiv.org/abs/1702.08367)
 1. **(roundILP) Learning Explanatory Rules from Noisy Data** *Richard Evans, Edward Grefenstette* JAIR 2017 [paper](https://arxiv.org/abs/1711.04574)
 2. **Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning** *Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen* [paper](https://arxiv.org/pdf/1903.08948.pdf) 
