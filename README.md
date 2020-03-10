@@ -120,3 +120,6 @@ for Fact Verification** *Jie Zhou, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang,
 * Meeting online and discuss what have done
 * Focus on logical reasoning on rules expressed by natural language.
 * Potentially start with open information extraction, build a logic graph or transfer it into a formula and then reason on it.
+
+#### Week 3 (2020.03.09-2020.03.15)
+* Read papers about Deeproblog, NLPROLOG and abductive learning.
