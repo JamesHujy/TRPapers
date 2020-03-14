@@ -44,6 +44,11 @@
 1. **SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver** *Po-Wei Wang, Priya L. Donti, Bryan Wilder, Zico Kolter* 2019 ICML [paper](https://arxiv.org/abs/1905.12149)
 
 #### [Prolog-like](#Content)
+3. **($\partial$ILP) Learning Explanatory Rules from Noisy Data.** *Richard Evans, Edward Grefenstette.* [paper](https://www.ijcai.org/Proceedings/2018/0792.pdf)
+4. **NLProlog: Reasoning with Weak Unification for Natural Language Question Answering** *Leon Weber, Pasquale Minervini, Ulf Leser, Tim Rocktäschel* ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1618.pdf)
+5. **End-to-End Differentiable Proving** *Tim Rocktäschel, Sebastian Riedel* NIPS 2017 [paper](https://arxiv.org/pdf/1705.11040.pdf)
+5. **DeepProbLog: Neural Probabilistic Logic Programming** *Robin Manhaeve
+Sebastijan Dumancic, Angelika Kimmig, Thomas Demeester, Luc De Raedt* NIPS 2018 [paper](http://papers.nips.cc/paper/7632-deepproblog-neural-probabilistic-logic-programming.pdf)
 
 
 #### [Logical Reasoning](#Content)
@@ -60,10 +65,6 @@
 #### [Rule Learning](#Content)
 1. **(NLIL) Learn to Explain Efficiently via Neural Logic Inductive Learning** *Yuan Yang, Le Song* ICLR 2020 [paper](https://arxiv.org/pdf/1910.02481.pdf)
 2. **Scalable Rule Learning via Learning Representation** *Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang* IJCAI 2018 [paper](https://www.ijcai.org/Proceedings/2018/0297.pdf)  
-3. **($\partial$ILP) Learning Explanatory Rules from Noisy Data.** *Richard Evans, Edward Grefenstette.* [paper](https://www.ijcai.org/Proceedings/2018/0792.pdf)
-4. **NLProlog: Reasoning with Weak Unification for Natural Language Question Answering** *Leon Weber, Pasquale Minervini, Ulf Leser, Tim Rocktäschel* ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1618.pdf)
-5. **DeepProbLog: Neural Probabilistic Logic Programming** *Robin Manhaeve
-Sebastijan Dumancic, Angelika Kimmig, Thomas Demeester, Luc De Raedt* NIPS 2018 [paper](http://papers.nips.cc/paper/7632-deepproblog-neural-probabilistic-logic-programming.pdf)
 6. **Generating Logical Forms from Graph Representations of Text and
 Entities** *Peter Shaw, Philip Massey, Angelica Chen, Francesco Piccinno, Yasemin Altun* ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1010.pdf)
 1. **(NeuralLP) Differentiable Learning of Logical Rules for Knowledge Base Reasoning** *Fan Yang, Zhilin Yang, William W. Cohen* NIPS 2017 [paper](https://arxiv.org/abs/1702.08367)
