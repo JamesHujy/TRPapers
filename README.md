@@ -11,13 +11,16 @@
     <td>&ensp;<a href="#Multi-hop-Reasoning">2.2 Multi-hop Reasoning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#Rule-Learning">2.3 Rule Learning</a></td>
-    <td>&ensp;<a href="#Relation-Extraction">2.4 Relation Extraction</a></td>
-    
+    <td>&ensp;<a href="#SAT Solver">2.3 SAT Solver</a></td>
+    <td>&ensp;<a href="#Prolog-like">2.4 Prolog-like</a></td>
 </tr>
 <tr>
-<td>&ensp;<a href="#Fact-Verification">2.5 Fact Verification</a></td>
-<td>&emsp;<a href="#Knowledge-Distillation">2.6 Knowledge Distillation</a></td>
+    <td>&ensp;<a href="#Rule-Learning">2.5 Rule Learning</a></td>
+    <td>&ensp;<a href="#Relation-Extraction">2.6 Relation Extraction</a></td>
+</tr>
+<tr>
+<td>&ensp;<a href="#Fact-Verification">2.7 Fact Verification</a></td>
+<td>&emsp;<a href="#Knowledge-Distillation">2.8 Knowledge Distillation</a></td>
 
 </tr>
 <tr><td colspan="2"><a href="#Datasets">3. Datasets</a></td></tr> 
@@ -36,9 +39,16 @@
 
 ### [Methods](#Content)
 
+#### [SAT Solver](#Content)
+1. **Learning an SAT Solver from Single-Bit Supervision** *Daniel Selsam, Matthew Lamm, Benedikt Bünz, Percy Liang, Leonardo de Moura, David L. Dill* 2019 ICLR [paper](https://arxiv.org/abs/1802.03685)
+1. **SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver** *Po-Wei Wang, Priya L. Donti, Bryan Wilder, Zico Kolter* 2019 ICML [paper](https://arxiv.org/abs/1905.12149)
+
+#### [Prolog-like](#Content)
+
+
 #### [Logical Reasoning](#Content)
 1. **Probabilistic Logic Neural Networks for Reasoning.** *Meng Qu, Jian Tang.* NeurIPS 2019. [paper](https://arxiv.org/pdf/1906.08495.pdf)
-1. **Neural Symbolic Reader: Scalable Intergration of Distributed and Symbolic Representations for Reading Comprehension.** *Xinyuan Chen, Chen Liang, Adams Wei Yu, Denny Zhou, Dawn Song, Quoc V. Le* ICLR 2020. [paper](https://openreview.net/pdf?id=ryxjnREFwH) [code](https://github.com/yuweihao/reclor) [website](http://whyu.me/reclor/) [note](https://github.com/JamesHujy/Updating-Work-on-Text-Reasoning/blob/master/note/NeRd_Note.md)
+1. **Neural Symbolic Reader: Scalable Integration of Distributed and Symbolic Representations for Reading Comprehension.** *Xinyuan Chen, Chen Liang, Adams Wei Yu, Denny Zhou, Dawn Song, Quoc V. Le* ICLR 2020. [paper](https://openreview.net/pdf?id=ryxjnREFwH) [code](https://github.com/yuweihao/reclor) [website](http://whyu.me/reclor/) [note](https://github.com/JamesHujy/Updating-Work-on-Text-Reasoning/blob/master/note/NeRd_Note.md)
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** *Jingyi Xu, Zilu Zhang, Tal Friedman, Yitao Liang, Guy Van den Broeck* ICML 2018. [paper](https://arxiv.org/abs/1711.11157)
 1. **Neural Module Networks for Reasoning over Text** *Nitish Gupta1, Kevin Lin2, Dan Roth, Sameer Singh & Matt Gardner* ICLR 2020
 [paper](https://openreview.net/pdf?id=SygWvAVFPr)
@@ -65,7 +75,7 @@ Statistical Methods with Inductive Rule Learning and Reasoning** *Arindam Mitra,
 
 #### [Multi-hop Reasoning](#Content)
 1. **Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering** *Akari Asai, Kazuma Hashimoto, Hannaneh Hajishirzi, Richard Socher, Caiming Xiong.* ICLR 2020 [paper](https://arxiv.org/abs/1911.10470) [code](https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths)
-2. **Transformer-XH:Multi-Evidence Reasoning with eXtra Hop Attention** *Chen Zhao, Chenyan Xiong, Corby Rosset, Xia Song, Paul Bennett, Saurabh Tiwary.* ICLR 2020 [paper](https://openreview.net/pdf?id=r1eIiCNYwS)
+2. **Transformer-XH: Multi-Evidence Reasoning with eXtra Hop Attention** *Chen Zhao, Chenyan Xiong, Corby Rosset, Xia Song, Paul Bennett, Saurabh Tiwary.* ICLR 2020 [paper](https://openreview.net/pdf?id=r1eIiCNYwS)
 1. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs.** *Ming Tu, Guangtao Wang, Jing Huang, Yun Tang, Xiaodong He, Bowen Zhou.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1260.pdf) [code](https://github.com/JD-AI-Research-Silicon-Valley/HDEGraph)
 2. **Cognitive Graph for Multi-Hop Reading Comprehension at Scale** *Ming Ding, Chang Zhou, Qibin Chen, Hongxia Yang, Jie Tang.* ACL 2019 [paper](https://arxiv.org/pdf/1905.05460.pdf)
 1. **Dynamically Fused Graph Network for Multi-hop Reasoning.** *Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1617.pdf)
@@ -126,4 +136,4 @@ for Fact Verification** *Jie Zhou, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang,
 * Potentially start with open information extraction, build a logic graph or transfer it into a formula and then reason on it.
 
 #### Week 3 (2020.03.09-2020.03.15)
-* Read papers about Deeproblog, NLPROLOG and abductive learning.
+* Read papers about Deeproblog, Neural SAT Solver, NLPROLOG and abductive learning.
