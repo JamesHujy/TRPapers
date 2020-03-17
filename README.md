@@ -138,3 +138,7 @@ for Fact Verification** *Jie Zhou, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang,
 
 #### Week 3 (2020.03.09-2020.03.15)
 * Read papers about Deeproblog, Neural SAT Solver, NLPROLOG and abductive learning.
+
+#### Week $ (2020.03.16-2020.03.22)
+* Implement SATNet and check its performance on text representation
+* specify some details in migrating SATNet 
