@@ -1,4 +1,4 @@
-# Updating-Work-on-Text-Reasoning
+# Paper-List-on-Logical-and-Text-Reasoning
 
 ## [Content](#Content)
 
