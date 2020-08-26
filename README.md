@@ -122,24 +122,3 @@ for Fact Verification** *Jie Zhou, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang,
 1. **Mining Knowledge Graphs from Text** *Jay Pujara, Sameer Singh* [website](https://kgtutorial.github.io/)
 1. **Logic and Proof** *Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn* [website](https://leanprover.github.io/logic_and_proof/index.html)
 2. **Graph Neural Networks for Natural Language Processing** *Shikhar Vashishth, Y. Naganand, Partha Talukdar* EMNLP 2019 Tutorial [slides](https://shikhar-vashishth.github.io/assets/pdf/emnlp19_tutorial.pdf)
-
-
-## [Plan](#Content)
-#### Week 0 (2020.02.17-2020.02.23) 
-* Search relative method and dataset
-
-#### Week 1 (2020.02.24-2020.03.01)
-* Organizing the papers we have read and prepare for presenting them.    
-* Focus on the logical reasoning and keep on reading papers.
-
-#### Week 2 (2020.03.02-2020.03.08)
-* Meeting online and discuss what have done
-* Focus on logical reasoning on rules expressed by natural language.
-* Potentially start with open information extraction, build a logic graph or transfer it into a formula and then reason on it.
-
-#### Week 3 (2020.03.09-2020.03.15)
-* Read papers about Deeproblog, Neural SAT Solver, NLPROLOG and abductive learning.
-
-#### Week 4 (2020.03.16-2020.03.22)
-* Implement SATNet and check its performance on text representation
-* specify some details in migrating SATNet 
